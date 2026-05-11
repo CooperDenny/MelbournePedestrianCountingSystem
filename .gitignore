@@ -1,2 +1,9 @@
 .ipynb_checkpoints
 path.docx
+
+# Python virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
